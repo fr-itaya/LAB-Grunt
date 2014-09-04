@@ -1,4 +1,6 @@
 LAB-Grunt
 =========
 
-Gruntで遊びまくる
+タスクランナーGruntと関連ツールで遊ぶ為のリポジトリです。
+
+[#1 Gruntインストール](https://github.com/fr-itaya/LAB-Grunt/issues/1)
